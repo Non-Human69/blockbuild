@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RNR",
+    "DBD",
+    "RNR"
+  ],
+  "key": {
+    "N": { "item": "minecraft:netherite_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "B": { "item": "create_enchantment_industry:hyper_experience_bottle"},
+    "R": { "item": "minecraft:terracotta" }
+  },
+  "result": {
+    "item": "create_blockbuild:world_essence"
+  }
+}

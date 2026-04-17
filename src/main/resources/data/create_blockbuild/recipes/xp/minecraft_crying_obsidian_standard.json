@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:crying_obsidian"
+    },
+    {
+      "item": "create_blockbuild:world_essence"
+    },
+    {
+      "fluid": "create_enchantment_industry:experience",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:crying_obsidian",
+      "count": 3
+    },
+    {
+      "item": "create_blockbuild:world_essence_empty",
+      "count": 1
+    }
+  ]
+}

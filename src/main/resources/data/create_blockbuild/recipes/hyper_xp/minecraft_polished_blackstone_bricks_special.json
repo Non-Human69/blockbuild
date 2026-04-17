@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "item": "create_blockbuild:world_essence"
+    },
+    {
+      "fluid": "create_enchantment_industry:hyper_experience",
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:polished_blackstone_bricks",
+      "count": 9
+    },
+    {
+      "item": "create_blockbuild:world_essence_empty",
+      "count": 1
+    }
+  ]
+}

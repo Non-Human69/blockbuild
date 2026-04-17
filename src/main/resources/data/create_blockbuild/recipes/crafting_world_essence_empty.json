@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DED",
+    "DDD"
+  ],
+  "key": {
+    "E": { "item": "create_blockbuild:world_essence_empty" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "item": "create_blockbuild:world_essence"
+  }
+}
